@@ -3,3 +3,6 @@ This is text file 1.
 Hello
 
 Let's have an edit in Branch1
+
+Modifying in Branch1
+
