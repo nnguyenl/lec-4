@@ -4,5 +4,9 @@ Hello
 
 Let's have an edit in Branch1
 
+<<<<<<< HEAD
 Modifying in Branch1
 
+=======
+Modifying same thing in Branch2
+>>>>>>> Branch2
