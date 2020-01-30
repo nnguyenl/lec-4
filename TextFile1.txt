@@ -10,3 +10,5 @@ Modifying in Branch1
 =======
 Modifying same thing in Branch2
 >>>>>>> Branch2
+
+Changing remote
